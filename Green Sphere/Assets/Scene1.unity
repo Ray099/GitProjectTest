@@ -238,7 +238,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
-<<<<<<< HEAD
 --- !u!1 &114904048
 GameObject:
   m_ObjectHideFlags: 0
@@ -434,8 +433,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of a29d2aa (Cilinder and Tree)
 --- !u!1 &1142058455
 GameObject:
   m_ObjectHideFlags: 0
